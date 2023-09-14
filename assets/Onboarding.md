@@ -4,7 +4,7 @@ Follow these instructions to request new VTubers to be added to this website.
 
 ## Availability
 
-`98 / 200 VTubers currently supported`
+`117 / 200 VTubers currently supported`
 
 ## Prerequisites
 
