@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.0.4] - 2023-09-22
+
+### Added
+
+- Viewer count for live streams
+- Platform logo
+
 ## [v0.0.3] - 2023-09-14
 
 ### Added
