@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.0.5] - 2023-09-23
+
+### Added
+
+- Support for Twitch streamers
+
+### Changed
+
+- FAQ to reflect support for Twitch
+
 ## [v0.0.4] - 2023-09-22
 
 ### Added

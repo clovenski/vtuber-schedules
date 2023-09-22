@@ -43,10 +43,10 @@ Are the dates converted to my local timezone?
 > Yes, there is a label in the menu to show the timezone they converted to.
 
 Does this support Twitch streamers?
-> Currently it does not, but I do have plans to look into it.
+> Yes! Since v0.0.5, this app now supports Twitch streamers.
 
 My oshi is not on here. Can I get them added?
-> Yes! Please follow instructions [here](https://github.com/clovenski/vtuber-schedules/blob/main/assets/Onboarding.md) for more information. Note that there is a limit to how many VTubers that can be on here, so act fast!
+> Yes! Please follow instructions [here](https://github.com/clovenski/vtuber-schedules/blob/main/assets/Onboarding.md) for more information. Note that there is a limit to how many YouTube VTubers that can be on here, so act fast!
 
 Is there a way to show the schedule on my Google calendar?
 > Not for every VTuber. For Nijisanji EN VTubers, see [here](https://github.com/clovenski/nijisanji-en-schedules/blob/main/assets/gcal/README.md) for more information. I don't plan on adding this feature for every VTuber on this site.
