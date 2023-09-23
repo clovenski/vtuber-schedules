@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.0.6] - 2023-09-23
+
+### Added
+
+- Badges in readme and onboarding doc regarding onboarding statistics
+
 ## [v0.0.5] - 2023-09-23
 
 ### Added
