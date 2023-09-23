@@ -4,7 +4,7 @@ Follow these instructions to request new VTubers to be added to this website.
 
 ## Availability
 
-`117 / 200 YouTube VTubers currently supported`
+`118 / 200 YouTube VTubers currently supported`
 
 There is currently no defined limit for the number of Twitch VTubers that can be supported.
 
