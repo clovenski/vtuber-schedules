@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.0.7] - 2023-09-23
+
+### Added
+
+- Ordering for affiliations
+  - hololive-EN
+  - hololive-ID
+  - HOLOSTARS-EN
+  - idol-EN
+  - Phase Connect
+  - PixelLink
+  - PRISM Project
+
+### Changed
+
+- Default streamer filter ordering to use streamer name instead of channel id
+- Minimum width of affiliation link buttons in home page
+- Side nav header to be sticky top, with proper background color
+
+### Fixed
+
+- Divider showing at the end of streams list when not needed
+- Onboarding prompt being shown when filtering out all streamers
+
 ## [v0.0.6] - 2023-09-23
 
 ### Added
