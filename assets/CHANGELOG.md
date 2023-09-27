@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.0.8] - 2023-09-26
+
+### Fixed
+
+- Past streams divider not showing when there are no live streams, but there are upcoming streams
+- Stream titles truncation
+  - Long titles not getting truncated properly
+  - Short titles getting truncated when they shouldn't
+- Styling for long streamer names (i.e. truncate them)
+- Scrollbar changing length when scrolling to the top
+- Scroll to top button not sticky on mobile
+
 ## [v0.0.7] - 2023-09-23
 
 ### Added
