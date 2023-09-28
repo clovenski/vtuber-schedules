@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.0.9] - 2023-09-27
+
+### Changed
+
+- Affilition link buttons on home page to be more compact
+- Side nav menu scrollbar styling to be more aligned with main content
+- Inactivity prompt in home page to be below affiliation link buttons
+
+### Fixed
+
+- Inactivity prompt in home page and side nav menu header to adapt to smaller screen widths
+- Scroll to top button not sticky on mobile (potentially)
+
 ## [v0.0.8] - 2023-09-26
 
 ### Fixed
@@ -12,7 +25,7 @@ All notable changes to this project will be documented in this file.
   - Short titles getting truncated when they shouldn't
 - Styling for long streamer names (i.e. truncate them)
 - Scrollbar changing length when scrolling to the top
-- Scroll to top button not sticky on mobile
+- Scroll to top button not sticky on mobile (potentially)
 
 ## [v0.0.7] - 2023-09-23
 
