@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.0.11] - 2023-09-30
+
+### Fixed
+
+- Mobile view being cut off at the bottom when address bar is present
+
 ## [v0.0.10] - 2023-09-30
 
 ### Added
