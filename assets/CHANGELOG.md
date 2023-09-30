@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.0.10] - 2023-09-30
+
+### Added
+
+- Button to jump to today's schedule
+- Compact mode; being enabled by default on mobile
+
+### Changed
+
+- Past streams to be shown by default
+- Dark mode toggle icon and text change when in dark mode
+
+### Fixed
+
+- Border color not changing right away when toggling dark mode
+
 ## [v0.0.9] - 2023-09-27
 
 ### Changed
