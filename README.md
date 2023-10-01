@@ -1,4 +1,4 @@
-# [VTuber Schedules](https://vtuberschedules.com/)
+# [VTuber Schedules](https://vtuberschedules.com/) ![logo](https://github.com/clovenski/vtuber-schedules/blob/main/assets/mascot.png)
 
 Website to view stream schedules of VTubers from several agencies.
 

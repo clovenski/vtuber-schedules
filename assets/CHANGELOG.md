@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.0.12] - 2023-09-30
+
+### Added
+
+- Mascot png to readme
+
 ## [v0.0.11] - 2023-09-30
 
 ### Fixed
