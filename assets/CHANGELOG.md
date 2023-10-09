@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.1.0] - 2023-10-08
+
+### Added
+
+- Feature to create calendar reminders of upcoming streams
+
 ## [v0.0.12] - 2023-09-30
 
 ### Added
