@@ -51,6 +51,9 @@ Does this support Twitch streamers?
 My oshi is not on here. Can I get them added?
 > Yes! Please follow instructions [here](https://github.com/clovenski/vtuber-schedules/blob/main/assets/Onboarding.md) for more information. Note that there is a limit to how many YouTube VTubers that can be on here, so act fast!
 
+I missed a stream! Is there a way to set up reminders?
+> Yes! When you filter down to an agency, there is a more options button at the top where you can set up reminders for the upcoming streams. Click on the stream to open a link to create the calendar event in your calendar (Google, Outlook, etc.).
+
 Is there a way to show the schedule on my Google calendar?
 > Not for every VTuber. For Nijisanji EN VTubers, see [here](https://github.com/clovenski/nijisanji-en-schedules/blob/main/assets/gcal/README.md) for more information. I don't plan on adding this feature for every VTuber on this site.
 

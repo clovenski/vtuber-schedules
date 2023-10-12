@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.0.1] - 2023-10-12
+
+### Changed
+
+- Streams that ended now show the time it started, along with the time it ended
+- FAQ section to include instructions for the reminders feature
+
 ## [v2.0.0] - 2023-10-11
 
 ### Added
