@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.0.0] - 2023-10-11
+
+### Added
+
+- Ordering for kawaii VTubers
+- Dynamic browser tab title according to the page
+- Relative time display (ex. how long until stream starts, stream ended how long ago, etc.)
+
+### Changed
+
+- Stream information to be compact and only show relevant info
+
 ## [v1.1.0] - 2023-10-08
 
 ### Added
