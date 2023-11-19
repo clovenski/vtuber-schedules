@@ -2,12 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.0.4] - 2023-11-18
+
+### Added
+
+- Ordering for HOLOSTARS EN Armis and VReverie
+
 ## [v2.0.3] - 2023-10-25
 
 ### Added
 
 - Ordering for new Nijisanji EN VTubers
-
 
 ## [v2.0.2] - 2023-10-14
 
