@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.0.5] - 2023-11-20
+
+### Added
+
+- Ordering for V4Mirai VTubers
+
+### Fixed
+
+- Ordering for VReverie VTubers
+
 ## [v2.0.4] - 2023-11-18
 
 ### Added
