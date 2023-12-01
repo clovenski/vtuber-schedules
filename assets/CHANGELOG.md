@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.0.6] - 2023-11-30
+
+### Added
+
+- Ordering for EIEN Project VTubers
+
 ## [v2.0.5] - 2023-11-20
 
 ### Added
