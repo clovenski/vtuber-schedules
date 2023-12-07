@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.1.0] - 2023-12-06
+
+### Added
+
+- Setting favorite affiliations
+- Info / links to footer
+
+### Removed
+
+- Affiliations buttons on home page for mobile
+
 ## [v2.0.6] - 2023-11-30
 
 ### Added
