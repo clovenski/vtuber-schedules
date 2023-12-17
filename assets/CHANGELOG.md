@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.1.1] - 2023-12-17
+
+### Added
+
+- Order for Phase Connect Gen 3 VTubers
+
 ## [v2.1.0] - 2023-12-06
 
 ### Added
