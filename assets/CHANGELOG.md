@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.1.2] - 2024-01-24
+
+### Added
+
+- HELLø LAND V&U VTubers order
+
 ## [v2.1.1] - 2023-12-17
 
 ### Added
