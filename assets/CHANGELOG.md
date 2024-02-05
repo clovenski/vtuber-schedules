@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.1.3] - 2024-02-05
+
+### Added
+
+- Order for FIRST STAGE PRODUCTION EN
+
+### Fixed
+
+- Styling of affiliation link buttons on home page + side navigation menu
+
 ## [v2.1.2] - 2024-01-24
 
 ### Added
