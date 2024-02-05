@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.1.4] - 2024-02-05
+
+### Changed
+
+- The styling for the affiliation link buttons in the home page and side navigation menu
+
 ## [v2.1.3] - 2024-02-05
 
 ### Added
