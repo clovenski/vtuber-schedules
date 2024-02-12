@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.1.5] - 2024-02-12
+
+### Added
+
+- Back button for the reminders page
+
+### Changed
+
+- Copyright year
+
 ## [v2.1.4] - 2024-02-05
 
 ### Changed
