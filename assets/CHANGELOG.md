@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.1.6] - 2024-02-13
+
+### Added
+
+- Order for globie VTubers
+
 ## [v2.1.5] - 2024-02-12
 
 ### Added
