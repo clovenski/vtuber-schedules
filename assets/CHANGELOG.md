@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.2.0] - 2024-04-07
+
+### Added
+
+- Docked left panel to quickly show who is currently live
+- Platform logos in filter popup
+- Curated sorting to have your commonly visited streamers higher in the list
+- Settings page
+  - Includes all previously implemented settings (dark mode, compact view, etc.)
+  - New setting to toggle curated sorting
+  - New setting to reset streamer preference metrics
+  - New setting to opt out of streamer preferences
+
+### Changed
+
+- Viewer icon to be red instead of white while in dark mode on the home page
+
 ## [v2.1.6] - 2024-02-13
 
 ### Added
