@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: August 21, 2022
+Last updated: April 8, 2024
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -208,6 +208,10 @@ If We need to rely on consent as a legal basis for processing Your information a
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+# YouTube API Services
+
+Our service uses YouTube API Services, in which its privacy policy can be viewed at [http://www.google.com/policies/privacy](http://www.google.com/policies/privacy).
 
 # Changes to this Privacy Policy
 

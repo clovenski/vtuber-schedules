@@ -67,6 +67,10 @@ Are you ever going to open-source this application?
 
 You can view the changes made to this application [here](https://github.com/clovenski/vtuber-schedules/blob/main/assets/CHANGELOG.md).
 
+## Terms of Service
+
+By visiting this website, you are agreeing to be bound by the YouTube Terms of Service, defined at [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms).
+
 ## Privacy
 
 You can review the privacy policy [here](https://github.com/clovenski/vtuber-schedules/blob/main/assets/PrivacyPolicy.md).

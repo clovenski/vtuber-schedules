@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.2.1] - 2024-04-08
+
+### Added
+
+- Link to YouTube terms of service in footer and bottom of side navigation panel
+- Added terms of service for this website, with link in footer and bottom of sidenav panel
+
+### Changed
+
+- Size of platform icon to be in compliance with YouTube TOS
+- Left docked panel
+  - Removed platform icon
+  - Put platform below the live viewers count
+
 ## [v2.2.0] - 2024-04-07
 
 ### Added
