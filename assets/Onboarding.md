@@ -18,6 +18,8 @@ where all the indie VTubers would be grouped.
 
 ## Instructions
 
-1. Make sure the VTuber is not already on this website. Filter for their agency and the menu's filter feature shows all the supported VTubers underneath this agency.
+1. Make sure the VTuber is not already on this website. Go to [https://vtuberschedules.com/settings/oshi](https://vtuberschedules.com/settings/oshi) to see a list of all currently supported VTubers. Filter for their name to quickly see if they are supported on this website.
 2. Make sure no one else is requesting for the same VTuber to be added. Take a quick look in [here](https://github.com/clovenski/vtuber-schedules/issues).
 3. Create an issue [here](https://github.com/clovenski/vtuber-schedules/issues) that details who you'd like to be added.
+    1. Alternatively, you can reach out to me on Discord (**clovenski**), or DM me on Twitter (**@Clovenski**)
+4. It should take less than 5 minutes to onboard the VTuber(s) once I start working on the request!

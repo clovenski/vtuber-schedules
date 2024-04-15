@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v3.0.0] - 2024-04-14
+
+### Added
+
+- Upcoming streams in left docked panel
+- My 推し Schedules - view a customized schedules page with your selected VTubers
+
+### Changed
+
+- Pagination in left docked panel
+  - default / min page size decreased fro 20 to 15
+  - page size incr / decr amount decreased from 10 to 5
+- Settings page topmost divider to be less wide
+- Left docked panel to be a little bit more aligned horizontally in text
+- Filter in side navigation panel to not show streamers who don't have any streams found for them
+- Onboarding documentation to have an alternative way to onboard VTubers than creating a GitHub issue
+  - by reaching out to me on Discord or X (formerly Twitter)
+
+### Removed
+
+- Live viewer count until further notice
+
 ## [v2.2.1] - 2024-04-08
 
 ### Added
