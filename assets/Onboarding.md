@@ -4,8 +4,8 @@ Follow these instructions to request new VTubers to be added to this website.
 
 ## Availability
 
-![YouTube availability](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdhiljqbdkw8vk.cloudfront.net%2Fstatic%2Fonboarding_stats.json&query=%24.yt_availability&label=YouTube%20VTubers%20supported&color=red)
-![Twitch availability](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdhiljqbdkw8vk.cloudfront.net%2Fstatic%2Fonboarding_stats.json&query=%24.twitch_supported&label=Twitch%20VTubers%20supported&color=9146FF)
+![YouTube availability](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fd37rkcwpi88ya6.cloudfront.net%2Fstatic%2Fonboarding_stats.json&query=%24.yt_availability&label=YouTube%20VTubers%20supported&color=red)
+![Twitch availability](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fd37rkcwpi88ya6.cloudfront.net%2Fstatic%2Fonboarding_stats.json&query=%24.twitch_supported&label=Twitch%20VTubers%20supported&color=9146FF)
 
 There is currently no defined limit for the number of Twitch VTubers that can be supported.
 

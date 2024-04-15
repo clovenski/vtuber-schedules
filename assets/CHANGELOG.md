@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v3.0.1] - 2024-04-15
+
+### Fixed
+
+- Badges that show number of YT VTubers supported, number of Twitch VTubers supported, etc.
+
 ## [v3.0.0] - 2024-04-14
 
 ### Added

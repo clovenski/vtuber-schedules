@@ -2,8 +2,8 @@
 
 Website to view stream schedules of VTubers from several agencies.
 
-![YouTube VTubers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdhiljqbdkw8vk.cloudfront.net%2Fstatic%2Fonboarding_stats.json&query=%24.yt_supported&label=YouTube%20VTubers&color=red)
-![Twitch VTubers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdhiljqbdkw8vk.cloudfront.net%2Fstatic%2Fonboarding_stats.json&query=%24.twitch_supported&label=Twitch%20VTubers&color=9146FF)
+![YouTube VTubers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fd37rkcwpi88ya6.cloudfront.net%2Fstatic%2Fonboarding_stats.json&query=%24.yt_supported&label=YouTube%20VTubers&color=red)
+![Twitch VTubers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fd37rkcwpi88ya6.cloudfront.net%2Fstatic%2Fonboarding_stats.json&query=%24.twitch_supported&label=Twitch%20VTubers&color=9146FF)
 
 ## Usage
 
