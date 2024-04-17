@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v3.0.2] - 2024-04-16
+
+### Added
+
+- Popup to notify user when their 推し was offboarded (removed) from the application
+
 ## [v3.0.1] - 2024-04-15
 
 ### Fixed
