@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v3.0.3] - 2024-04-22
+
+### Added
+
+- Viewer count to live streams
+- Link in home page to request onboarding VTubers onto this website
+
+### Changed
+
+- Left docked panel to show scheduled start time for upcoming streams (without needing to hover over them)
+
 ## [v3.0.2] - 2024-04-16
 
 ### Added
