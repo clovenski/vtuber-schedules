@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v3.0.4] - 2024-05-19
+
+### Fixed
+
+- Left docked panel being pushed up a bit on certain resolutions when scrolling to the end
+
 ## [v3.0.3] - 2024-04-22
 
 ### Added
