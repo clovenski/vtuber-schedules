@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v3.0.5] - 2024-08-16
+
+### Fixed
+
+- Streamer preferences issue not applying when too many preferences
+
 ## [v3.0.4] - 2024-05-19
 
 ### Fixed
