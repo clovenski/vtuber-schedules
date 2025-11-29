@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v4.0.0] - 2025-11-29
+
+### Changed
+
+- Limited the window of streams showing here to be at most 7 days in past and future only
+
 ## [v3.0.5] - 2024-08-16
 
 ### Fixed

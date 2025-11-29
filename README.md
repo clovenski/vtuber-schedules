@@ -37,7 +37,7 @@ Does this show members-only videos?
 > No.
 
 How accurate is this information?
-> The information gets updated every 5 minutes.
+> The information gets updated every 5 minutes. Also note that only streams that are at most 7 days in the past and 7 days in the future are listed here. Currently live streams will always show (for example, those marathon streams that for some reason last more than 7 days..).
 
 Why do streams sometimes disappear?
 > The source (YouTube) to get the stream information is not exactly stable. The stream should show up again on the next refresh interval / update.
@@ -55,13 +55,10 @@ I missed a stream! Is there a way to set up reminders?
 > Yes! When you filter down to an agency, there is a more options button at the top where you can set up reminders for the upcoming streams. Click on the stream to open a link to create the calendar event in your calendar (Google, Outlook, etc.).
 
 Is there a way to show the schedule on my Google calendar?
-> Not for every VTuber. For Nijisanji EN VTubers, see [here](https://github.com/clovenski/nijisanji-en-schedules/blob/main/assets/gcal/README.md) for more information. I don't plan on adding this feature for every VTuber on this site.
+> Not for every VTuber. For Nijisanji EN VTubers, see [here](https://github.com/clovenski/nijisanji-en-schedules/blob/main/assets/gcal/README.md) for more information. I don't plan on adding this feature for every VTuber on this site. I've also deprecated this feature, so only the Nijisanji EN VTubers that were part of it before will stay until they eventually *#G-word*.
 
 Will newly debuted VTubers be added here?
 > Yes, if their agency is supported / listed on this site, then they will eventually get added once their channel gets created. If I miss it, don't hesitate to request for them to be added through [here](https://github.com/clovenski/vtuber-schedules/blob/main/assets/Onboarding.md).
-
-Are you ever going to open-source this application?
-> I can consider it if there's enough demand. I'd only open-source the front-end portion though.
 
 ## Changelog
 
